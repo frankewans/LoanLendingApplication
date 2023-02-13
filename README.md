@@ -1,8 +1,7 @@
-Loan Lending Application
-
-For writing and reporting of loans
+Loan Lending Application - For writing and reporting of loans
 
 How to setup and run the project
+--------------------------------
 
 Download the project from github - https://github.com/frankewans/LoanLendingApplication
 
